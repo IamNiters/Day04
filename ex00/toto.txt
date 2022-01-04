@@ -1,0 +1,5 @@
+total 28
+-rw-rw-r-- 1 niters niters     0 janv.  4 13:15 toto.txt
+-rw-rw-r-- 1 niters niters 17189 janv.  4 13:13 commands.txt
+drwxrwxr-x 4 niters niters  4096 janv.  4 13:13 ..
+drwxrwxr-x 2 niters niters  4096 janv.  4 13:15 .

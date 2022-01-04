@@ -1,0 +1,1000 @@
+ 1012  ls
+ 1013  cd ..
+ 1014  ls
+ 1015  cd..
+ 1016  ls
+ 1017  cd ..
+ 1018  ls
+ 1019  cd Day09
+ 1020  ls
+ 1021  clear
+ 1022  ls
+ 1023  mdkir ex00 ex01 ex03
+ 1024  mkdir ex00 ex01 ex03
+ 1025  ls
+ 1026  ls -lra
+ 1027  git add .
+ 1028  git commit -m " Rendu des exos"
+ 1029  git push
+ 1030  git status
+ 1031  ls
+ 1032  cd ex02
+ 1033  ls
+ 1034  cd ex01
+ 1035  ls
+ 1036  cd ..
+ 1037  ls
+ 1038  cd ..
+ 1039  ls
+ 1040  cd it_akademy/
+ 1041  ls
+ 1042  cd corrections/
+ 1043  ls
+ 1044  cd AntoineM/
+ 1045  ls
+ 1046  cd Day00_1/
+ 1047  ls
+ 1048  cd Day00/
+ 1049  ls
+ 1050  cd ex02
+ 1051  ls
+ 1052  cat bonjour.sh 
+ 1053  vim bonjour.sh 
+ 1054  ./bonjour.sh 
+ 1055  cd ..
+ 1056  ls
+ 1057  cd ..
+ 1058  cd ls
+ 1059  ls
+ 1060  cd ..
+ 1061  ls
+ 1062  cd ..
+ 1063  ls
+ 1064  mkdir RayaneG
+ 1065  ls
+ 1066  cd RayaneG/
+ 1067  ls
+ 1068  git clone https://github.com/rayaneguelai/Day00.git
+ 1069  ls
+ 1070  cd Day00/
+ 1071  ls
+ 1072  cd ex00
+ 1073  ls
+ 1074  cd Documents/
+ 1075  ls
+ 1076  cd it_akademy/
+ 1077  ls
+ 1078  cd corrections/
+ 1079  ls
+ 1080  mkdir DidierC
+ 1081  ls
+ 1082  cd DidierC/
+ 1083  ls
+ 1084  git clone https://github.com/zephir73/Day00.git
+ 1085  ls
+ 1086  cd Day00/
+ 1087  ls
+ 1088  cd ex00
+ 1089  lls
+ 1090  ls
+ 1091  cd Planets/
+ 1092  ls
+ 1093  cd Real/
+ 1094  ls
+ 1095  cd Gazeuses/
+ 1096  ls
+ 1097  cd ..
+ 1098  cd Telluriques/
+ 1099  ls
+ 1100  cd ..
+ 1101  ls
+ 1102  cd ..
+ 1103  ls
+ 1104  cd Star_
+ 1105  cd Star_Trek/
+ 1106  ls
+ 1107  cd ..
+ 1108  ls
+ 1109  cd commands.txt
+ 1110  cat commands.txt 
+ 1111  ls
+ 1112  cd ..
+ 1113  ls
+ 1114  cd ex01
+ 1115  ls
+ 1116  cat php_france_2019.csv 
+ 1117  ls
+ 1118  cat alumni.csv 
+ 1119  grep 2019 alumni.csv  > 2019.csv
+ 1120  cat 2019.csv 
+ 1121  grep PHP > php_2019.csv
+ 1122  cat php_2019.csv 
+ 1123  grep 2019 alumni.csv  > 2019.csv
+ 1124  grep PHP > php_2019.csv
+ 1125  grep PHP alumni.csv > php.csv
+ 1126  cat php.csv 
+ 1127  clear
+ 1128  grep 2019 php.csv > 2019_php.csv
+ 1129  cat 2019_php.csv 
+ 1130  ls
+ 1131  grep France 2019_php.csv > france_2019_php.csv
+ 1132  cat france_2019_php.csv 
+ 1133  ls
+ 1134  cat php_france_2019.csv  | wc -l
+ 1135  cat france_2019_php.csv | wc -l
+ 1136  ls
+ 1137  cat commande_php.txt 
+ 1138  cd ..
+ 1139  ls
+ 1140  cd ex02
+ 1141  cd ..
+ 1142  ls
+ 1143  cd ex01
+ 1144  ls
+ 1145  cat david.csv 
+ 1146  cat david_commande.txt 
+ 1147  cat javascript_biarritz_toulouse.csv 
+ 1148  cd ..
+ 1149  ls
+ 1150  cd ex01
+ 1151  ls
+ 1152  cd ..
+ 1153  ls
+ 1154  cd ex02
+ 1155  ls
+ 1156  ./bonjour.sh 
+ 1157  cd ..
+ 1158  ls
+ 1159  cd ex03
+ 1160  ls
+ 1161  mkdir 1 2 3 4 5 6 7 8
+ 1162  ls
+ 1163  cat midLS 
+ 1164  ls -m -t -p
+ 1165  cd ..
+ 1166  ls
+ 1167  cd ex04
+ 1168  ls
+ 1169  git log
+ 1170  ls
+ 1171  ./git_commit.sh 
+ 1172  ./git_commit.sh | cat -e
+ 1173  cd ..
+ 1174  ls
+ 1175  cd exO5
+ 1176  ls
+ 1177  cd ex05/
+ 1178  ls
+ 1179  ggroups
+ 1180  ls
+ 1181  groups
+ 1182  clear
+ 1183  groups
+ 1184  ./print.sh 
+ 1185  cat print.sh 
+ 1186  cd ~
+ 1187  lq
+ 1188  ls
+ 1189  ls -lra
+ 1190  cd .vim/plugins/
+ 1191  ls
+ 1192  rm itheader.txt 
+ 1193  ls
+ 1194  vim itheader.vim
+ 1195  cd ~
+ 1196  ls
+ 1197  cd Documents/
+ 1198  ls
+ 1199  cd it_akademy/
+ 1200  ls
+ 1201  vim test.txt
+ 1202  vim test.c
+ 1203  ls
+ 1204  cd ~
+ 1205  ls
+ 1206  cd .vim/plugins/
+ 1207  ls
+ 1208  rm itheader.vim 
+ 1209  ls
+ 1210  cd ..
+ 1211  ls
+ 1212  cd cd ..
+ 1213  ls
+ 1214  cd ~
+ 1215  ls
+ 1216  cd Documents/
+ 1217  ls
+ 1218  cd it_akademy/
+ 1219  ls
+ 1220  mkdir Scripts
+ 1221  cd Scripts/
+ 1222  ls
+ 1223  vim bonjour.py
+ 1224  ls
+ 1225  python3 bonjour.py 
+ 1226  ls
+ 1227  cd ..
+ 1228  ls
+ 1229  cd corrections/
+ 1230  ls
+ 1231  cd LiridonaI/
+ 1232  ls
+ 1233  cd Day00/
+ 1234  ls
+ 1235  git status
+ 1236  git checkout dona
+ 1237  git branch -l
+ 1238  ls
+ 1239  cd ..
+ 1240  ls
+ 1241  rm -rf Day00/
+ 1242  git clone https://github.com/doneisufi/Day00.git
+ 1243  ls
+ 1244  cd Day00/
+ 1245  ls
+ 1246  cd ex00
+ 1247  ls
+ 1248  cd Planets/
+ 1249  ls
+ 1250  cd ..
+ 1251  git checkout dona
+ 1252  ls
+ 1253  cd ..
+ 1254  ls
+ 1255  cd ex00
+ 1256  ls
+ 1257  cd Planets/
+ 1258  ls
+ 1259  cd Real/
+ 1260  ls
+ 1261  cd Gazeuses/
+ 1262  ls
+ 1263  cd ..
+ 1264  ls
+ 1265  cd ..
+ 1266  ls
+ 1267  cd ..
+ 1268  ls
+ 1269  cd ..
+ 1270  ls
+ 1271  cd ex01
+ 1272  ls
+ 1273  cat php_france_2019.csv 
+ 1274  cat javascript_biarritz_toulouse.csv 
+ 1275  cd ..
+ 1276  ls
+ 1277  cd ex01
+ 1278  ls
+ 1279  cat david.csv 
+ 1280  ls
+ 1281  grep David alumni.csv  | wc -l
+ 1282  cd ..
+ 1283  ls
+ 1284  cd ex02
+ 1285  ls
+ 1286  ./bonjour.sh 
+ 1287  cd ..
+ 1288  ls
+ 1289  cd ex04
+ 1290  ls
+ 1291  ./git_commit.sh
+ 1292  ls
+ 1293  ls -lra
+ 1294  chmod +x git_commit.sh 
+ 1295  ls
+ 1296  ./git_commit.sh 
+ 1297  cd ..
+ 1298  ls
+ 1299  cd ex05
+ 1300  ls
+ 1301  ./print_groups.sh 
+ 1302  ls -lra
+ 1303  cd ..
+ 1304  ls
+ 1305  cd ..
+ 1306  ls
+ 1307  cd ..
+ 1308  ls
+ 1309  cd AntoineM/
+ 1310  ls
+ 1311  rm Day00_1/
+ 1312  rm -rd Day00_1/
+ 1313  ls
+ 1314  rm -rm Day00_1
+ 1315  rm -rf Day00_1
+ 1316  ls
+ 1317  git clone https://github.com/Antoine-Mulatier/Day00.git
+ 1318  ls
+ 1319  cd Day00/
+ 1320  ls
+ 1321  cd ex00
+ 1322  ls
+ 1323  cd Planets/
+ 1324  ls
+ 1325  cd Real/
+ 1326  ls
+ 1327  cd ..
+ 1328  ls
+ 1329  cd ..
+ 1330  ls
+ 1331  cd ..
+ 1332  ls
+ 1333  cd ex02
+ 1334  ls
+ 1335  cd ...
+ 1336  cd ..
+ 1337  cd ex01
+ 1338  ls
+ 1339  cat javascript_biarritz_toulouse.csv 
+ 1340  ls c
+ 1341  ls
+ 1342  cat php_france_2019.csv 
+ 1343  ls
+ 1344  cd ..
+ 1345  ls
+ 1346  cd ex01
+ 1347  ls
+ 1348  cat javascript_biarritz_toulouse.csv 
+ 1349  cat david.csv 
+ 1350  cd ..
+ 1351  cd ex02
+ 1352  ls
+ 1353  ./bonjour.sh 
+ 1354  cd ..
+ 1355  ls
+ 1356  cd ex03
+ 1357  ls
+ 1358  cat midLS 
+ 1359  mkdir a e r t y n m 
+ 1360  ls -rtFm
+ 1361  cd 
+ 1362  ls
+ 1363  cd Do
+ 1364  cd Documents/
+ 1365  ls
+ 1366  cd it_akademy/
+ 1367  ls
+ 1368  cd corrections/
+ 1369  ls
+ 1370  cd AntoineM/
+ 1371  ls
+ 1372  cd Day00/
+ 1373  ls
+ 1374  cd ex04
+ 1375  ls
+ 1376  ./git_commit.sh 
+ 1377  ls
+ 1378  cd ..
+ 1379  ls
+ 1380  cd ex05
+ 1381  ls
+ 1382  ./print_groups.sh 
+ 1383  cat print_groups.sh 
+ 1384  cd ..
+ 1385  ls
+ 1386  cd ..
+ 1387  ls
+ 1388  cd ..
+ 1389  ls
+ 1390  cd RayaneG/
+ 1391  ls
+ 1392  rm -rf Day00/
+ 1393  git clone https://github.com/rayaneguelai/Day00.git
+ 1394  ls
+ 1395  cd Day00/
+ 1396  ls
+ 1397  cd ex00
+ 1398  ls
+ 1399  cd Planets/
+ 1400  ls
+ 1401  cat commands.txt 
+ 1402  cd ..
+ 1403  ls
+ 1404  cd Planets/
+ 1405  ls
+ 1406  cd Real/
+ 1407  ls
+ 1408  cd ..
+ 1409  cd Starwars/
+ 1410  ls
+ 1411  cd ..
+ 1412  cd Startrek/
+ 1413  ls
+ 1414  cd ..
+ 1415  ls
+ 1416  cd ..
+ 1417  cd ex01
+ 1418  ls
+ 1419  cat php_france_2019.csv 
+ 1420  cat david.csv 
+ 1421  cat javascript_biarritz_toulouse.csv 
+ 1422  cd ..
+ 1423  ls
+ 1424  cd ..
+ 1425  ls
+ 1426  cd Day00/
+ 1427  ls
+ 1428  cd ex01
+ 1429  ls
+ 1430  cd ..
+ 1431  cd ex02
+ 1432  ls
+ 1433  ./bonjour.sh 
+ 1434  cd ..
+ 1435  cd ex03
+ 1436  ls
+ 1437  cat midLS 
+ 1438  cd ..
+ 1439  ls
+ 1440  cd ex04
+ 1441  ls
+ 1442  ./git_commit.sh 
+ 1443  cd ..
+ 1444  ls
+ 1445  cd ex05
+ 1446  ls
+ 1447  ./print_groups.sh 
+ 1448  cd ..
+ 1449  ls
+ 1450  cd ..
+ 1451  ls
+ 1452  mdkir JoachimP
+ 1453  ls
+ 1454  mkdir JoaquimP
+ 1455  cd JoaquimP/
+ 1456  git clone https://github.com/joaquim2509pedro/Day00.git
+ 1457  ls
+ 1458  cd Day00/
+ 1459  ls
+ 1460  cd ex00
+ 1461  ls
+ 1462  cd Planets/
+ 1463  ls
+ 1464  cd real/
+ 1465  ls
+ 1466  cd Gazeuses/
+ 1467  ls
+ 1468  cd ..
+ 1469  ls
+ 1470  cd starwars/
+ 1471  ls
+ 1472  cd ..
+ 1473  ls
+ 1474  cd ..
+ 1475  cd ex01
+ 1476  ls
+ 1477  cat javascript_biarritz_toulouse.csv 
+ 1478  cd ..
+ 1479  ls
+ 1480  cd ex01
+ 1481  cat php_france_2019.csv 
+ 1482  cat david.csv 
+ 1483  cd ..
+ 1484  ls
+ 1485  cd ex02
+ 1486  ls
+ 1487  ./bonjour.sh 
+ 1488  cd ..
+ 1489  ls
+ 1490  cd ex03
+ 1491  ls
+ 1492  cat midLS 
+ 1493  mkdir test toto papa maman
+ 1494  ls -cmF
+ 1495  cd ..
+ 1496  ls
+ 1497  cd ex04
+ 1498  ls
+ 1499  ./git_commit.sh
+ 1500  sudo ./git_commit_sh
+ 1501  chmod +x git_commit.sh 
+ 1502  ./git_commit.sh 
+ 1503  cd ..
+ 1504  ls
+ 1505  cd ex05
+ 1506  ls
+ 1507  chmod +x print_groups.sh 
+ 1508  ./print_groups.sh 
+ 1509  ls
+ 1510  cat print_groups.sh 
+ 1511  ls
+ 1512  cd ..
+ 1513  ls
+ 1514  cd ..
+ 1515  ls
+ 1516  cd ..
+ 1517  ls
+ 1518  cd 
+ 1519  ls
+ 1520  cd Downloads/
+ 1521  ls
+ 1522  tar -czf discord-0.0.15/
+ 1523  tar -xzf discord-0.0.15/
+ 1524  cd discord-0.0.15/
+ 1525  ls
+ 1526  sudo apt install discord
+ 1527  snap install discord
+ 1528  ls
+ 1529  cd cd ..
+ 1530  ls
+ 1531  cd ..
+ 1532  ls
+ 1533  vim touch.sh
+ 1534  ./touch.sh
+ 1535  chmod +x touch.sh 
+ 1536  ./touch.sh 
+ 1537  ls
+ 1538  ls -Frtm
+ 1539  chmod +x depistage-covid-19.csv 
+ 1540  cat depistage-covid-19.csv 
+ 1541  ls -c -m -f
+ 1542  mkdir dir
+ 1543  ls -c -m -f
+ 1544  ls -c -m -F
+ 1545  ls
+ 1546  cd ..
+ 1547  ls
+ 1548  cd Documents/
+ 1549  ls
+ 1550  cd it_akademy/
+ 1551  ls
+ 1552  cd corrections/
+ 1553  ls
+ 1554  cd RayaneG/
+ 1555  ls
+ 1556  cd ..
+ 1557  ls
+ 1558  cd Day0y01
+ 1559  ls
+ 1560  cd Day01
+ 1561  ls
+ 1562  cd ex02
+ 1563  ls
+ 1564  cd ..
+ 1565  cd ex00
+ 1566  ls
+ 1567  cat deposition_Joe_Rugiani.txt | sed -i ".bak"'$D
+ 1568  <*s
+ 1569  sed -i ".bak"'$D deposition
+ 1570  cat deposition_Joe_Rugiani.txt | sed -i ".bak"'$D
+ 1571  <*s
+ 1572  sed deposition_Joe_Rugiani.txt 
+ 1573  sed -i deposition_Joe_Rugiani.txt 
+ 1574  sed -i ".bak3 '$D
+ 1575  toto
+ 1576  siooitr
+ 1577  touch.sh
+ 1578  ls -lra
+ 1579  touch touch.sh
+ 1580  ls
+ 1581  ls -lra
+ 1582  chmod +x touch.sh 
+ 1583  ls -lra
+ 1584  touch toto.sh 
+ 1585  ls -lra
+ 1586  chmod 744 touch.sh 
+ 1587  ls -lra
+ 1588  chmod 774 touch.sh 
+ 1589  ls -lra
+ 1590  chmod 777 touch.sh 
+ 1591  ls -lra
+ 1592  man chmod
+ 1593  ls
+ 1594  cd Documents/
+ 1595  ls
+ 1596  cd it_akademy/
+ 1597  ls
+ 1598  git clone https://github.com/IamNiters/Checkpoint00.git
+ 1599  ls
+ 1600  cd Checkpoint00/
+ 1601  ls
+ 1602  git pull
+ 1603  ls
+ 1604  mkdir ex03
+ 1605  ls
+ 1606  cd ex03
+ 1607  ls
+ 1608  vim alert_no_spoil.txt
+ 1609  cat ls
+ 1610  ls
+ 1611  mv alert_no_spoil.txt leCorbeauEtLeRenard.txt
+ 1612  ls
+ 1613  cat leCorbeauEtLeRenard.txt 
+ 1614  git add .
+ 1615  git commit -m "Added fable_jean_de_la_fontaine"
+ 1616  git push
+ 1617  git add .
+ 1618  git commit -m "Added ex"
+ 1619  ls
+ 1620  cat leCorbeauEtLeRenard.txt 
+ 1621  cat leCorbeauEtLeRenard.txt  | grep corbeau
+ 1622  grep corbeau leCorbeauEtLeRenard.txt 
+ 1623  ls
+ 1624  cat leCorbeauEtLeRenard.txt grep "corbeau" leCorbeauEtLeRenard.txt 
+ 1625  cat leCorbeauEtLeRenard.txt | grep corbeau 
+ 1626  cat leCorbeauEtLeRenard.txt | grep Corbeau 
+ 1627  sed 's/Corbeau/Chat/g' leCorbeauEtLeRenard.txt 
+ 1628  ls
+ 1629  git status
+ 1630  cd ..
+ 1631  ls
+ 1632  cd ex03
+ 1633  ls
+ 1634  cd git add .
+ 1635  ..
+ 1636  cd ..
+ 1637  ls
+ 1638  git add .
+ 1639  git commit -m "Added ex03"
+ 1640  git push
+ 1641  ls
+ 1642  cd Documents/
+ 1643  ls
+ 1644  cd it_akademy/
+ 1645  ls
+ 1646  touch tata.txt
+ 1647  ls
+ 1648  ls -l
+ 1649  touch -touch -t 204201060000
+ 1650  touch -touch -d 204201060000
+ 1651  touch -touch -mt 204201060000 tata.txt 
+ 1652  touch -t 204295910000
+ 1653  touch -mt 204295910000 tata.txt 
+ 1654  ls
+ 1655  touch -t 200006040100 ./tata.txt
+ 1656  ls -l
+ 1657  lq
+ 1658  lls
+ 1659  cd ..
+ 1660  ls
+ 1661  cd niters/
+ 1662  ls
+ 1663  cd Documents/
+ 1664  ls
+ 1665  cd Code_lab/
+ 1666  ls
+ 1667  mkdir Js_lab
+ 1668  cd Js_lab/
+ 1669  ls
+ 1670  git clone https://github.com/IamNiters/IntroToFramerMotion.git
+ 1671  ls
+ 1672  cd IntroToFramerMotion/
+ 1673  npm install
+ 1674  sudo apt install npm
+ 1675  ls
+ 1676  cd introframermotion/
+ 1677  ls
+ 1678  npm instal
+ 1679  npm install
+ 1680  code .
+ 1681  ls
+ 1682  pwd
+ 1683  cd ..
+ 1684  ls
+ 1685  cd introframermotion/
+ 1686  ls
+ 1687  git checkout animation
+ 1688  git checkout Animation
+ 1689  git pull
+ 1690  npm run dev
+ 1691  npm install Framer-motion
+ 1692  npm install framer-motion
+ 1693  npm run dev
+ 1694  ls
+ 1695  cd Documents/
+ 1696  ls
+ 1697  cd it_akademy/
+ 1698  ls
+ 1699  git clone https://github.com/Nicoprost/game.git
+ 1700  ls
+ 1701  cd game/
+ 1702  ls
+ 1703  ls -l
+ 1704  chmod +x main.py 
+ 1705  ls
+ 1706  ls -l
+ 1707  python3 main.py 
+ 1708  python3 -m pip install -U pygame
+ 1709  python3 -m pygame.examples.aliens
+ 1710  pyton3 main.py 
+ 1711  python3 main.py 
+ 1712  nano ball.py 
+ 1713  nano main.py 
+ 1714  nano jeu.py 
+ 1715  cd ..
+ 1716  ls
+ 1717  git clone https://github.com/Elvis-69/gameJam
+ 1718  ls
+ 1719  cd gameJam/
+ 1720  ls
+ 1721  python3 main.py 
+ 1722  cd ..
+ 1723  git clone https://github.com/Elvis-69/gameJam
+ 1724  git clone https://github.com/rayaneguelai/Battle.git
+ 1725  ls
+ 1726  cd Battle/
+ 1727  ls
+ 1728  python3 battle.py 
+ 1729  cd ..
+ 1730  ls
+ 1731  git clone https://github.com/Elvis-69/gameJam
+ 1732  git clone https://github.com/rayaneguelai/Shooter.git
+ 1733  ls
+ 1734  cd Shooter/
+ 1735  ls
+ 1736  python3 shooter_tut8.py 
+ 1737  pip install pytmx
+ 1738  python3 shooter_tut8.py 
+ 1739  pip install pyscroll
+ 1740  python3 shooter_tut8.py 
+ 1741  cd ...
+ 1742  git clone https://github.com/Table-II-TL02-IT-Akademy/gamejam.git
+ 1743  cd gamejam/
+ 1744  python3 main.py 
+ 1745  ls
+ 1746  cd ..
+ 1747  ls
+ 1748  cd niters/
+ 1749  ls
+ 1750  cd Documents/
+ 1751  ls
+ 1752  cd it_akademy/
+ 1753  ls
+ 1754  python3 hello.py
+ 1755  cat hello.py 
+ 1756  ls
+ 1757  mkdir Cpp
+ 1758  ls
+ 1759  cd Cpp/
+ 1760  ls
+ 1761  vim hello.cpp
+ 1762  ls
+ 1763  gcc hello.cpp -o hello
+ 1764  g++ hello.cpp 
+ 1765  vim hello.cpp 
+ 1766  gcc hello.cpp -o hello
+ 1767  vim hello.cpp 
+ 1768  gcc hello.cpp -o hello
+ 1769  ls
+ 1770  vim hello.cpp 
+ 1771  gcc hello.cpp -o hello
+ 1772  clear
+ 1773  gcc hello.cpp -o hello
+ 1774  gcc hello.cpp
+ 1775  vim hello.cpp 
+ 1776  ls
+ 1777  cat hello.cpp 
+ 1778  clear
+ 1779  vim hello.cpp 
+ 1780  ls
+ 1781  gcc hello.cpp 
+ 1782  clang++7 hello.cpp 
+ 1783  g++ hello.cpp 
+ 1784  ls
+ 1785  ./a.out 
+ 1786  ls
+ 1787  g++ hello.cpp 
+ 1788  ls
+ 1789  ./a.out 
+ 1790  vim hello.cpp 
+ 1791  g++ hello.cpp 
+ 1792  ls
+ 1793  g++ hello.cpp -o hello
+ 1794  ls
+ 1795  rm a.out 
+ 1796  ./hello 
+ 1797  rm a.out s
+ 1798  cd ..
+ 1799  ls
+ 1800  cat HeaderIt 
+ 1801  ls
+ 1802  cd ..
+ 1803  l
+ 1804  ls
+ 1805  cd ..
+ 1806  ls
+ 1807  cd ..
+ 1808  ls
+ 1809  cd ~
+ 1810  ls
+ 1811  cd ..
+ 1812  ls
+ 1813  cd niters/
+ 1814  ls
+ 1815  cd Documents/
+ 1816  ls
+ 1817  cd it_akademy/
+ 1818  ls
+ 1819  cd Cpp/
+ 1820  ls
+ 1821  ./hello 
+ 1822  ls
+ 1823  code .
+ 1824  g++ hello.cpp -o test
+ 1825  ls
+ 1826  ./test 
+ 1827  ls
+ 1828  g++ hello.cpp
+ 1829  ls
+ 1830  ./a.out 
+ 1831  ls
+ 1832  g++ hello.cpp -o cout
+ 1833  ls
+ 1834  ./cout
+ 1835  ls
+ 1836  rm a.out 
+ 1837  ls
+ 1838  rm hello test
+ 1839  ls
+ 1840  rm cout 
+ 1841  ls
+ 1842  g++ hello.cpp 
+ 1843  ls
+ 1844  ./a.out
+ 1845  ./a.out 
+ 1846  ls
+ 1847  cd Documents/
+ 1848  ls
+ 1849  mkdir test
+ 1850  cd test
+ 1851  ls
+ 1852  touch {1..20}
+ 1853  ls
+ 1854  ls --ignore="sqOddrm" | xargs -I{} bash -c 'if ! expr {} % 2; then rm {}; fi'
+ 1855  ls
+ 1856  seq 20 | xargs touch
+ 1857  ls
+ 1858  seq 0 2 20 | xargs rm
+ 1859  ls
+ 1860  cd  PycharmProjects/
+ 1861  ls
+ 1862  cd pythonProjecta
+ 1863  ls
+ 1864  cd pythonProject
+ 1865  ls
+ 1866  cd ..
+ 1867  cd pythonProject1
+ 1868  ls
+ 1869  python main.py 
+ 1870  python3 main.py 
+ 1871  cd ..
+ 1872  ls
+ 1873  cd pythonProject2
+ 1874  ls
+ 1875  cat main.py 
+ 1876  cd 
+ 1877  cd ..
+ 1878  ls
+ 1879  cd ..
+ 1880  cd niters
+ 1881  ls
+ 1882  cd usr/
+ 1883  ls
+ 1884  cd games/
+ 1885  ls
+ 1886  cd ..
+ 1887  ls
+ 1888  cd ..
+ 1889  ls
+ 1890  cd home/
+ 1891  ls
+ 1892  cd niters/
+ 1893  ls
+ 1894  cd Documents/
+ 1895  ls
+ 1896  cd it_akademy/
+ 1897  ls
+ 1898  cd game
+ 1899  le
+ 1900  ls
+ 1901  python3 main.py 
+ 1902  ls
+ 1903  cd ..
+ 1904  ls
+ 1905  cd Battle/
+ 1906  ls
+ 1907  python3 battle.py 
+ 1908  ls
+ 1909  python3 battle.py 
+ 1910  ls
+ 1911  cd ..
+ 1912  ls
+ 1913  cd game
+ 1914  ls
+ 1915  python3 main.py 
+ 1916  ls
+ 1917  cd ..
+ 1918  ls
+ 1919  cd Shooter/
+ 1920  ls
+ 1921  python3 game.py
+ 1922  cd gamejam/
+ 1923  ls
+ 1924  python3 main.py 
+ 1925  ls
+ 1926  cd ..
+ 1927  ls
+ 1928  cd ..
+ 1929  ls
+ 1930  cd ??
+ 1931  cd Downloads/
+ 1932  ls
+ 1933  ls -l
+ 1934  cat depistage-covid-19.csv 
+ 1935  clear
+ 1936  ls
+ 1937  cat touch.sh 
+ 1938  cd ..
+ 1939  ls
+ 1940  cd Documents/
+ 1941  ls
+ 1942  cd Code_lab/
+ 1943  ld
+ 1944  ls
+ 1945  cd Shell_lab/
+ 1946  ls
+ 1947  cat hello
+ 1948  clear
+ 1949  cd ..
+ 1950  ls
+ 1951  cd ..
+ 1952  cd ~
+ 1953  ls
+ 1954  clear
+ 1955  ls
+ 1956  pwd
+ 1957  ls
+ 1958  cd ..
+ 1959  ls
+ 1960  cd 
+ 1961  ls
+ 1962  cd demo/
+ 1963  ls
+ 1964  cat bonjour.sh 
+ 1965  bash bonjour.sh 
+ 1966  ./ bonjour.sh 
+ 1967  ./bonjour.sh 
+ 1968  ls -r 
+ 1969  ls -ra
+ 1970  ls -la
+ 1971  clear
+ 1972  ls
+ 1973  cd 
+ 1974  ls
+ 1975  whoi
+ 1976  whoiam
+ 1977  who
+ 1978  ls
+ 1979  sudo vim /etc/hostname
+ 1980  ls
+ 1981  clear
+ 1982  ls
+ 1983  sudo vim /etc/hostname
+ 1984  sudo vim /etc/hosts
+ 1985  ls
+ 1986  clear
+ 1987  sudo reboot
+ 1988  ls
+ 1989  history -c100
+ 1990  history 100
+ 1991  history
+ 1992  clear
+ 1993  history 40
+ 1994  history (
+ 1995  history 5
+ 1996  clear
+ 1997  history 50
+ 1998  clear
+ 1999  ls
+ 2000  cd Documents/
+ 2001  ls
+ 2002  mkdir GitHub
+ 2003  cd GitHub/ && git clone https://github.com/IamNiters/Day04.git
+ 2004  ls
+ 2005  cd Day04/
+ 2006  ls
+ 2007  ls -lra
+ 2008  mkdir ex00
+ 2009  cd ex00/ ; touch commands.txt
+ 2010  ls
+ 2011  history > commands.txt 
